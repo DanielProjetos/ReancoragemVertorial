@@ -1,0 +1,42 @@
+Collective Code Construction Contract (C4)
+
+Version 1.0
+
+Copyright (c) 2026 Daniel Oliveira Leal
+
+This is a human-readable summary of the Collective Code Construction Contract.
+This is not a license for code in the traditional sense, but a contract for
+collaborative software development.
+
+1. Purpose
+
+The purpose of this contract is to ensure collective ownership, traceability,
+and integrity of contributions to this project.
+
+2. Contributions
+
+All contributions to this project must be made via the project's version
+control system.
+
+Each contribution must be documented, attributable, and traceable to its
+author.
+
+3. Ownership
+
+No contributor may claim exclusive ownership over the collective work.
+
+The project is owned collectively by its contributors.
+
+4. Integrity
+
+Contributors must not remove or alter existing attribution, license, or
+authorship information.
+
+5. Warranty
+
+The project is provided "as is", without warranty of any kind.
+
+6. Governance
+
+Project governance is defined by the maintainers through the repository
+workflow and contribution guidelines.
