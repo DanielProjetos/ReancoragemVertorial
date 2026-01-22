@@ -151,5 +151,6 @@ Ele existe para permitir que outros pensem com ele, não para pensar por eles.
 Cartografia precede território.
 Este é o mapa.
 
-Engenharia De Software: Daniel Oliveira Leal
+Daniel Oliveira Leal
 São Paulo 11 de janeiro de 2026
+“License: UNIFIED AUTHOR LICENSE — see LICENSE.”
